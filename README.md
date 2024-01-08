@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jiafangtao
-- 👀 I’m interested in programming, software design and football.
-- 🌱 I’m currently learning golang and k8s.
+- 👀 I’m interested in programming, software design, software architecture.
+- 💞️ In my spare time I'd like to play soccer with my friends.
+- 🌱 I’m currently learning golang, k8s and AI.
 - 💞️ I’m looking to collaborate on coming releases of the software products I'm working on.
 - 📫 How to reach me? You know it.
 
